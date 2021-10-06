@@ -1,0 +1,13 @@
+Parent
+Nikolay
+1930
+novich
+1.03.1950
+Child
+Dmitrieva_Natalya_Ivanovna
+Ivanov_Ivan_Ivanovich
+13.04.1979
+Grandson
+Dmitriev_Artem_Vasilievich
+09.01.2002
+Moskva
